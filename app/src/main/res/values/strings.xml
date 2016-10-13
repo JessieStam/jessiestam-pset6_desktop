@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jessiestam-pset6_desktop</string>
+    <string name="enter_email">Enter your e-mail</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="sign_up_button">Sign me up!</string>
+    <string name="auth_failed">Something went wrong there...</string>
+</resources>
